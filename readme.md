@@ -1,4 +1,4 @@
 add
 add master
-add diff
-git reset HEAD 
+add diff 
+add fetch 
