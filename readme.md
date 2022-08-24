@@ -1,3 +1,4 @@
 add
 add master
-add diff 
+add diff
+git reset HEAD 
